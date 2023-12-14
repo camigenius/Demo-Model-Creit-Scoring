@@ -129,7 +129,7 @@ st.image(image2, caption='Prueba con diferentes Números de Árboles ')
 image3 = Image.open('AreasBajoCurvaBosuqesProfundidad.png')
 st.image(image3, caption='Prueba con diferentes Números de Árboles y diferentes profundidades')
 
-st.subheader('Comparacin curva ROC entre los dos Modelos')
+st.subheader('Comparación curva ROC entre los dos Modelos')
 image4 = Image.open('ComparacionModelos.png')
 st.image(image4, caption='Comparación Modelos Árboles de Desición y Bosques Aleatorios')
 
